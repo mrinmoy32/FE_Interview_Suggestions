@@ -5,9 +5,11 @@ Arun M (LinkedIn)
 Software Engineer @ Zoho | 28K @ LinkedIn | Mentor @ Newton School | Frontend, React, JavaScriptSoftware Engineer @ Zoho | 28K @ LinkedIn | Mentor @ Newton School | Frontend, React, JavaScript
 10h • Edited • 10h • Edited •
 
+
 <strong>
 What do I mean by learn Fundamental Questions?
 </strong>
+
 
 For companies paying 15-20LPA 💰 as Frontend Engineers.
 
